@@ -1,0 +1,6 @@
+pandas
+streamlit
+pyserial
+mysql-connector-python
+sqlalchemy
+mysqlclient
